@@ -4,8 +4,8 @@
 This repository contains implementations of popular data mining algorithms: Apriori and K-Means clustering. These algorithms are widely used in various domains for extracting patterns and insights from datasets.
 
 ## Files
-- **apriori_algo.py**: This file contains the implementation of the Apriori algorithm, a classic algorithm for frequent itemset mining and association rule learning.
-- **kmeans_algo.py**: This file contains the implementation of the K-Means algorithm, a clustering technique used for partitioning a dataset into K distinct, non-overlapping subgroups.
+- **Apriori**: This file contains the implementation of the Apriori algorithm, a classic algorithm for frequent itemset mining and association rule learning.
+- **K-means**: This file contains the implementation of the K-Means algorithm, a clustering technique used for partitioning a dataset into K distinct, non-overlapping subgroups.
 
 ## Usage
 ### Apriori Algorithm
